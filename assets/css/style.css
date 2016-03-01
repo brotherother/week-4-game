@@ -1,0 +1,95 @@
+body {
+	background-image: url("../images/background.jpg");
+}
+
+.crystalImage {
+	float: left;
+  	width: 200px;
+ 	height: 200px;
+ 	margin-left: 15px;
+ 	margin-bottom: 25px;
+}
+
+#crystals {
+	clear: both;
+	margin-left: 35px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+#title {
+	text-align: center;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	padding: 20px;
+	margin-bottom: 0px;
+	margin-left: 50px;
+	background-color: orange;
+	color: white;
+	width: 25%;
+}
+
+#instructions {
+	text-align: left;
+	color: #008000;
+	float: left;
+	margin-left: 50px;
+	padding: 20px;
+	height: 275px;
+	width: 650px;
+	background: #F5F5DC;
+	border: 1px solid #eee;
+	margin-top: 25px;
+	font-size: 125%;
+	margin-bottom: 25px;
+}
+
+#number {
+	clear: left;
+	width: 25%;
+	height: 200px;
+	margin-left: 50px;
+	margin-top: 25px;
+	background-color: #008000;
+	color: #FFC0CB;
+	font-size: 175%;
+	padding:15px;
+	display: inline-block;
+}
+
+#winloss {
+	clear: both;
+	/*float: left;*/
+	height: 200px;
+	background-color: #008080;
+	margin-left: 50px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	width:25%;
+	display: inline-block;
+}
+
+#scoreTitle {
+	width: 30%;
+	clear: both;
+	margin-left: 50px;
+	background-color: #008B8B;
+	color: white;
+	height: 50px;
+	font-size: 150%;
+	vertical-align: base;
+}
+
+#yourScore {
+	margin-top: 25px;
+	width: 30%;
+	clear: both;
+	margin-left: 50px;
+	background-color: #008B8B;
+	color: white;
+	height: 200px;
+	font-size: 250%;
+}
+
+#test {
+	width: 600px;
+}
